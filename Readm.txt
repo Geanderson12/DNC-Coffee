@@ -1,0 +1,18 @@
+Versão 1.0
+
+Cliente: Cafeteria DNC
+
+Briefing:
+Criação de landing page do zero com Bootstrap;
+O layout deve conter NavBar, uma imagem com largura 100%, e 4 cards em bootstrap;
+O NavBar precisa estar com o espaçamento entre títulos de acordo com o Figma
+A imagem inteira precisa ficar sem bordas, tanto na horizontal quanto na vertical;
+As imagens do cards precisam estar alinhadas com o exemplo do Bootstrap.
+
+
+
+Obs.:
+Projeto completo para avaliação do cliente
+
+Implementado como plus o modal na aba ajuda.
+
